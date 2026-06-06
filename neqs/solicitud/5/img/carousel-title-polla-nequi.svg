@@ -1,0 +1,18 @@
+﻿<svg width="100%" height="100%" viewBox="0 0 782 371" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <title>Préstamo Propulsor Nequi</title>
+  <style>
+    .title-propulsor {
+      fill: #F724A1;
+      font-family: Impact, "Arial Black", "Montserrat", sans-serif;
+      font-weight: 900;
+      letter-spacing: -4px;
+      paint-order: stroke;
+      text-transform: uppercase;
+    }
+  </style>
+  <g transform="rotate(-4 391 185) skewX(-5)" aria-hidden="true">
+    <text class="title-propulsor" x="391" y="105" font-size="105" text-anchor="middle" textLength="720" lengthAdjust="spacingAndGlyphs">PRÉSTAMO</text>
+    <text class="title-propulsor" x="391" y="230" font-size="105" text-anchor="middle" textLength="735" lengthAdjust="spacingAndGlyphs">PROPULSOR</text>
+    <text class="title-propulsor" x="391" y="352" font-size="125" text-anchor="middle" textLength="560" lengthAdjust="spacingAndGlyphs">NEQUI</text>
+  </g>
+</svg>
